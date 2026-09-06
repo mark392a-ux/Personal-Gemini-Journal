@@ -1,0 +1,8 @@
+{
+  "name": "Personal Gemini Journal",
+  "description": "A private, user-authenticated journaling and reflection application powered by Firebase Authentication, Cloud Firestore, and Gemini 3.6 Flash.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
